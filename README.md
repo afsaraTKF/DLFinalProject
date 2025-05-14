@@ -12,14 +12,14 @@ The effectiveness of these attacks is measured by the degradation in Top-1 and T
 
 ## Repository Contents
 
-*   **`DL_Project3_Adversarial_Attacks.ipynb`**: The main Jupyter Notebook containing all code for:
+*   **`finalproject_v0.ipynb`**: The main Jupyter Notebook containing all code for:
     *   Loading datasets and models.
     *   Implementation of all adversarial attack methods.
     *   Evaluation of attacks on ResNet-34.
     *   Transferability tests on EfficientNet-B0.
     *   Generation of all figures and detailed result tables.
     *   **Note:** The notebook provides a comprehensive record of all methods explored and their detailed outputs. Some granular details or intermediate results might be present in the notebook but were summarized or excluded from the final PDF report due to length constraints. The report focuses on the most salient findings and best-performing methods.
-*   **`DL_Project3_Adversarial_Attacks.pdf`**: A PDF version of the Jupyter Notebook, provided as a stable alternative in case the `.ipynb` file fails to render correctly on GitHub.
+*   **`DLFinalProject.pdf`**: A PDF version of the Jupyter Notebook, provided as a stable alternative in case the `.ipynb` file fails to render correctly on GitHub.
 
 ## Key Findings
 
